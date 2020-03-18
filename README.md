@@ -2,7 +2,7 @@
 
 ### **IN4325**: Information Retreival - Natural Language Processing module
 
-Multiple models developed using differenct feature-groups in order to study the task of modelling irony in tweets. This was the problem statement for the SemEval 2018 Challenge, Task 3:
+The project is developed in group of 4 people. Multiple models developed using differenct feature-groups in order to study the task of modelling irony in tweets. This aims to achieve a solution for task-3 of the SemEval 2018 Challenge:
 
 - Bag of Words (BoW) Model
 - Lexical Model
